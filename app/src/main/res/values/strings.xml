@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NewBoston</string>
+    <string name="Hello">Android Studio is Weird</string>
+    <string name="Click">Find Masjid</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_57336bf09734506c916232b16a8a7423d8c92cc2.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/guava-11.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="35a3c69e19d72743cac83778aecbee68680f63eb">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/guava-11.0.2_d726624a2291e4a694607788797fb952469fa007.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/google-http-client-android2-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="abc3169aef81c8e9757f0bac6bc53bdf4359b6d4">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/google-http-client-android2-1.10.3-beta_b1d9269491616718a86fc9661045fb582057cff6.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/google-http-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c048f821756760d534ac73b8772ba87d48818f3d">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/google-http-client-1.10.3-beta_d79ccacd37a7fdb322e818ade50eca2ef13f71a1.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/protobuf-java-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2a95d3e6df137d3369cc479ce7ad77703e430b2b">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/protobuf-java-2.2.0_7e83633acfd0e46281d0c40ce9683877db093f9b.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_29d262ffd9fabda7ca0afa9a32bcba28872a1f96.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_211af9080736a554eda70f1c3886994619e9e00a.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/google-api-client-android2-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b5a001a5d8ce335fb1c76a220e01c675927c406">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/google-api-client-android2-1.10.3-beta_47c1cee7f391cbc5a9dffdd16ffd3b6ad8416fdd.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_e8ca206b41f772efb37b61cb71ea0408be4b3eb7.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_4b045e05674e1c08fbdf34d06cf11725075cf541.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/gson-2.1_0e003911993f968e90e5ac70d28eb06cdbc1b14d.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-6.5.87_8cf4e0f3f1f85bcdd5b51a64040b3737e3f841c1.jar" />
+    </item>
+    <item
+        jar="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/libs/google-api-client-1.10.3-beta.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="439ae56218d7b9015a967ecc9fc528bca5fa2a5c">
+        <dex dex="/Users/irfan/Desktop/AndroidStudioProjects/NewBoston/app/build/intermediates/pre-dexed/debug/google-api-client-1.10.3-beta_1dd99f80402c18cbe32d1cfe10ee6a777d31b29f.jar" />
+    </item>
+
+</items>
